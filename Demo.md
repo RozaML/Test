@@ -32,8 +32,6 @@ That's it.
 3. This is a list item number 3
 
 - This is a list item number 1 where you can read things
-- This is a list item number 2
-- This is a list item number 3 
 
 Let's add a link, shall we:
 
